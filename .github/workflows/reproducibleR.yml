@@ -1,6 +1,8 @@
 name: Reproducibility
-on: [push, pull_request]
-
+on:
+  push, pull_request:
+    paths-ignore:
+      - reproduced.svg
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -27,3 +29,10 @@ jobs:
         with:
           name: reproduced-badge
           path: reproduced.svg
+      - name: Commit badge
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add reproduced.svg
+          git commit -m "Update reproducibility badge" || echo "No changes to commit"
+          git push
