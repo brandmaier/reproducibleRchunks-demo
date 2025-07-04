@@ -44,7 +44,7 @@ jobs:
       - name: Commit and push
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         run: |
+        run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add reproduced.svg
