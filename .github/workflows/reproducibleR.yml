@@ -28,7 +28,7 @@ jobs:
         run: |
           Rscript - <<'EOF'
           library(reproducibleRchunks)
-          files <- list.files(pattern = '\.[Rr]md$', recursive = TRUE)
+          files <- list.files(pattern = '\\.[Rr]md$', recursive = TRUE)
           success <- all(sapply(files, isReproducible))
           if (success) {
             download.file('https://img.shields.io/badge/reproduced-brightgreen.svg', 'reproduced.svg', mode = 'wb')
