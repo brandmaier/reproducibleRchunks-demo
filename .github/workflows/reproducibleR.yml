@@ -1,6 +1,6 @@
 name: Reproducibility
 on:
-  push, pull_request:
+  push:
     paths-ignore:
       - reproduced.svg
 jobs:
