@@ -37,9 +37,7 @@ jobs:
         with:
           name: reproduced-badge
           path: reproduced.svg
-      - name: Commit badge
-        run: |
-- name: Commit and push
+      - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
