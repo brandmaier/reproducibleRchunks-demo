@@ -1,0 +1,17 @@
+---
+title: "Demo"
+output: html_document
+date: "2025-07-04"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(reproducibleRchunks)
+```
+
+## Analysis
+
+```{reproducibleR}
+x <- c(1,2,3)
+y <- x + 1
+```
