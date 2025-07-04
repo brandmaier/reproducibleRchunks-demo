@@ -3,6 +3,11 @@ on:
   push:
     paths-ignore:
       - reproduced.svg
+
+permissions:
+  contents: write
+
+
 jobs:
   check:
     runs-on: ubuntu-latest
