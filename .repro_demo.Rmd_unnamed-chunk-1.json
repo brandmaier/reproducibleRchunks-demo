@@ -14,7 +14,7 @@
         "names": {
           "type": "character",
           "attributes": {},
-          "value": ["hashing", "hashing_algorithm", "hashing_package", "hashing_package_version", "digits", "R_version", "code_fingerprint"]
+          "value": ["hashing", "hashing_algorithm", "hashing_package", "hashing_package_version", "digits", "R_version", "session_info", "code_fingerprint"]
         }
       },
       "value": [
@@ -144,6 +144,2876 @@
               "type": "character",
               "attributes": {},
               "value": ["Pile of Leaves"]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "attributes": {
+            "names": {
+              "type": "character",
+              "attributes": {},
+              "value": ["R.version", "platform", "locale", "tzone", "tzcode_type", "running", "RNGkind", "basePkgs", "otherPkgs", "loadedOnly", "matprod", "BLAS", "LAPACK", "LA_version", "system.codepage", "codepage"]
+            },
+            "class": {
+              "type": "character",
+              "attributes": {},
+              "value": ["sessionInfo"]
+            }
+          },
+          "value": [
+            {
+              "type": "list",
+              "attributes": {
+                "names": {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["platform", "arch", "os", "crt", "system", "status", "major", "minor", "year", "month", "day", "svn rev", "language", "version.string", "nickname"]
+                }
+              },
+              "value": [
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["x86_64-w64-mingw32"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["x86_64"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["mingw32"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["ucrt"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["x86_64, mingw32"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": [""]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["4"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["4.2"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["2024"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["10"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["31"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["87279"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["R"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["R version 4.4.2 (2024-10-31 ucrt)"]
+                },
+                {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["Pile of Leaves"]
+                }
+              ]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["x86_64-w64-mingw32/x64"]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["LC_COLLATE=German_Germany.utf8;LC_CTYPE=German_Germany.utf8;LC_MONETARY=German_Germany.utf8;LC_NUMERIC=C;LC_TIME=German_Germany.utf8"]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["Europe/Berlin"]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["internal"]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["Windows 11 x64 (build 26100)"]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["Mersenne-Twister", "Inversion", "Rejection"]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"]
+            },
+            {
+              "type": "list",
+              "attributes": {
+                "names": {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["reproducibleRchunks"]
+                }
+              },
+              "value": [
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Title", "Version", "Authors@R", "Description", "License", "Encoding", "Roxygen", "Imports", "Suggests", "Config/testthat/edition", "Language", "BugReports", "RoxygenNote", "VignetteBuilder", "Author", "Maintainer", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/reproducibleRchunks/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["reproducibleRchunks"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Automated Reproducibility Checks for R Markdown Documents"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["1.2.0"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(person(\"Andreas M. Brandmaier\", email=\"andreas.brandmaier@medicalschool-berlin.de\", role=c(\"aut\",\"cre\")), person(\"Aaron Peikert\",email=\"peikert@mpib-berlin.mpg.de\",role=\"ctb\"))"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Provide reproducible R chunks in R Markdown document that automatically check computational results for reproducibility. This is achieved by creating json files storing metadata about computational results. A comprehensive tutorial to the package is available as preprint by Brandmaier & Peikert (2024, <doi:10.31234/osf.io/3zjvf>)."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["list(markdown = TRUE)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["jsonlite, knitr, digest, rstudioapi, utils, rmarkdown"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["spelling,\nMASS,\ntestthat (>= 3.0.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["en-US"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/brandmaier/reproducibleRchunks/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Andreas M. Brandmaier [aut, cre],\n  Aaron Peikert [ctb]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Andreas M. Brandmaier <andreas.brandmaier@medicalschool-berlin.de>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2025-07-06 19:38:22 UTC; windows"]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "attributes": {
+                "names": {
+                  "type": "character",
+                  "attributes": {},
+                  "value": ["digest", "R6", "fastmap", "xfun", "cachem", "knitr", "htmltools", "rmarkdown", "lifecycle", "cli", "sass", "jquerylib", "compiler", "rstudioapi", "tools", "evaluate", "bslib", "yaml", "rlang", "jsonlite"]
+                }
+              },
+              "value": [
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Authors@R", "Version", "Date", "Title", "Description", "URL", "BugReports", "Depends", "Imports", "License", "Suggests", "VignetteBuilder", "Encoding", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/digest/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["digest"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(person(\"Dirk\", \"Eddelbuettel\", role = c(\"aut\", \"cre\"), email = \"edd@debian.org\",\n                    comment = c(ORCID = \"0000-0001-6419-907X\")),\n             person(\"Antoine\", \"Lucas\", role=\"ctb\"),\n             person(\"Jarek\", \"Tuszynski\", role=\"ctb\"),\n             person(\"Henrik\", \"Bengtsson\", role=\"ctb\", comment = c(ORCID = \"0000-0002-7579-5165\")),\n             person(\"Simon\", \"Urbanek\", role=\"ctb\", comment = c(ORCID = \"0000-0003-2297-1732\")),\n             person(\"Mario\", \"Frasca\", role=\"ctb\"),\n             person(\"Bryan\", \"Lewis\", role=\"ctb\"),\n             person(\"Murray\", \"Stokely\", role=\"ctb\"),\n             person(\"Hannes\", \"Muehleisen\", role=\"ctb\"),\n             person(\"Duncan\", \"Murdoch\", role=\"ctb\"),\n             person(\"Jim\", \"Hester\", role=\"ctb\"),\n             person(\"Wush\", \"Wu\", role=\"ctb\", comment = c(ORCID = \"0000-0001-5180-0567\")),\n             person(\"Qiang\", \"Kou\", role=\"ctb\", comment = c(ORCID = \"0000-0001-6786-5453\")),\n             person(\"Thierry\", \"Onkelinx\", role=\"ctb\", comment = c(ORCID = \"0000-0001-8804-4216\")),\n             person(\"Michel\", \"Lang\", role=\"ctb\", comment = c(ORCID = \"0000-0001-9754-0393\")),\n             person(\"Viliam\", \"Simko\", role=\"ctb\"),\n             person(\"Kurt\", \"Hornik\", role=\"ctb\", comment = c(ORCID = \"0000-0003-4198-9911\")),\n             person(\"Radford\", \"Neal\", role=\"ctb\", comment = c(ORCID = \"0000-0002-2473-3407\")),\n             person(\"Kendon\", \"Bell\", role=\"ctb\", comment = c(ORCID = \"0000-0002-9093-8312\")),\n             person(\"Matthew\", \"de Queljoe\", role=\"ctb\"),\n             person(\"Dmitry\", \"Selivanov\", role=\"ctb\"),\n             person(\"Ion\", \"Suruceanu\", role=\"ctb\"),\n             person(\"Bill\", \"Denney\", role=\"ctb\"),\n             person(\"Dirk\", \"Schumacher\", role=\"ctb\"),\n             person(\"András\", \"Svraka\", role=\"ctb\"),\n             person(\"Sergey\", \"Fedorov\", role=\"ctb\"),\n             person(\"Will\", \"Landau\", role=\"ctb\", comment = c(ORCID = \"0000-0003-1878-3253\")),\n             person(\"Floris\", \"Vanderhaeghe\", role=\"ctb\", comment = c(ORCID = \"0000-0002-6378-6229\")),\n             person(\"Kevin\", \"Tappe\", role=\"ctb\"),\n             person(\"Harris\", \"McGehee\", role=\"ctb\"),\n             person(\"Tim\", \"Mastny\", role=\"ctb\"),\n             person(\"Aaron\", \"Peikert\", role=\"ctb\", comment = c(ORCID = \"0000-0001-7813-818X\")),\n             person(\"Mark\", \"van der Loo\", role=\"ctb\", comment = c(ORCID = \"0000-0002-9807-4686\")),\n             person(\"Chris\", \"Muir\", role=\"ctb\", comment = c(ORCID = \"0000-0003-2555-3878\")),\n             person(\"Moritz\", \"Beller\", role=\"ctb\", comment = c(ORCID = \"0000-0003-4852-0526\")),\n             person(\"Sebastian\", \"Campbell\", role=\"ctb\"),\n             person(\"Winston\", \"Chang\", role=\"ctb\", comment = c(ORCID = \"0000-0002-1576-2126\")),\n             person(\"Dean\", \"Attali\", role=\"ctb\", comment = c(ORCID = \"0000-0002-5645-3493\")),\n             person(\"Michael\", \"Chirico\", role=\"ctb\", comment = c(ORCID = \"0000-0003-0787-087X\")),\n             person(\"Kevin\", \"Ushey\", role=\"ctb\"))"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["0.6.37"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-08-19"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Create Compact Hash Digests of R Objects"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Implementation of a function 'digest()' for the creation of hash\n digests of arbitrary R objects (using the 'md5', 'sha-1', 'sha-256', 'crc32',\n 'xxhash', 'murmurhash', 'spookyhash', 'blake3', 'crc32c', 'xxh3_64', and 'xxh3_128'\n algorithms) permitting easy comparison of R language objects, as well as functions\n such as'hmac()' to create hash-based message authentication code. Please note that\n this package is not meant to be deployed for cryptographic purposes for which more\n comprehensive (and widely tested) libraries such as 'OpenSSL' should be used."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/eddelbuettel/digest,\nhttps://dirk.eddelbuettel.com/code/digest.html"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/eddelbuettel/digest/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.3.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["utils"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["GPL (>= 2)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["tinytest, simplermarkdown"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["simplermarkdown"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-08-19 12:16:05 UTC; edd"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Dirk Eddelbuettel [aut, cre] (<https://orcid.org/0000-0001-6419-907X>),\n  Antoine Lucas [ctb],\n  Jarek Tuszynski [ctb],\n  Henrik Bengtsson [ctb] (<https://orcid.org/0000-0002-7579-5165>),\n  Simon Urbanek [ctb] (<https://orcid.org/0000-0003-2297-1732>),\n  Mario Frasca [ctb],\n  Bryan Lewis [ctb],\n  Murray Stokely [ctb],\n  Hannes Muehleisen [ctb],\n  Duncan Murdoch [ctb],\n  Jim Hester [ctb],\n  Wush Wu [ctb] (<https://orcid.org/0000-0001-5180-0567>),\n  Qiang Kou [ctb] (<https://orcid.org/0000-0001-6786-5453>),\n  Thierry Onkelinx [ctb] (<https://orcid.org/0000-0001-8804-4216>),\n  Michel Lang [ctb] (<https://orcid.org/0000-0001-9754-0393>),\n  Viliam Simko [ctb],\n  Kurt Hornik [ctb] (<https://orcid.org/0000-0003-4198-9911>),\n  Radford Neal [ctb] (<https://orcid.org/0000-0002-2473-3407>),\n  Kendon Bell [ctb] (<https://orcid.org/0000-0002-9093-8312>),\n  Matthew de Queljoe [ctb],\n  Dmitry Selivanov [ctb],\n  Ion Suruceanu [ctb],\n  Bill Denney [ctb],\n  Dirk Schumacher [ctb],\n  András Svraka [ctb],\n  Sergey Fedorov [ctb],\n  Will Landau [ctb] (<https://orcid.org/0000-0003-1878-3253>),\n  Floris Vanderhaeghe [ctb] (<https://orcid.org/0000-0002-6378-6229>),\n  Kevin Tappe [ctb],\n  Harris McGehee [ctb],\n  Tim Mastny [ctb],\n  Aaron Peikert [ctb] (<https://orcid.org/0000-0001-7813-818X>),\n  Mark van der Loo [ctb] (<https://orcid.org/0000-0002-9807-4686>),\n  Chris Muir [ctb] (<https://orcid.org/0000-0003-2555-3878>),\n  Moritz Beller [ctb] (<https://orcid.org/0000-0003-4852-0526>),\n  Sebastian Campbell [ctb],\n  Winston Chang [ctb] (<https://orcid.org/0000-0002-1576-2126>),\n  Dean Attali [ctb] (<https://orcid.org/0000-0002-5645-3493>),\n  Michael Chirico [ctb] (<https://orcid.org/0000-0003-0787-087X>),\n  Kevin Ushey [ctb]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Dirk Eddelbuettel <edd@debian.org>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-08-19 14:10:07 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-02-25 02:14:48 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Title", "Version", "Authors@R", "Description", "License", "URL", "BugReports", "Depends", "Suggests", "Config/Needs/website", "Config/testthat/edition", "Encoding", "RoxygenNote", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/R6/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R6"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Encapsulated Classes with Reference Semantics"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2.6.1"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Winston\", \"Chang\", , \"winston@posit.co\", role = c(\"aut\", \"cre\")),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\"))\n  )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Creates classes with reference semantics, similar to R's\n    built-in reference classes. Compared to reference classes, R6 classes\n    are simpler and lighter-weight, and they are not built on S4 classes\n    so they do not require the methods package. These classes allow public\n    and private members, and they support inheritance, even when the\n    classes are defined in different packages."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://r6.r-lib.org, https://github.com/r-lib/R6"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/r-lib/R6/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.6)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["lobstr, testthat (>= 3.0.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["tidyverse/tidytemplate, ggplot2, microbenchmark,\nscales"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["no"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-02-14 21:15:19 UTC; winston"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Winston Chang [aut, cre],\n  Posit Software, PBC [cph, fnd]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Winston Chang <winston@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-02-15 00:50:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2025-02-25 02:14:49 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Title", "Version", "Authors@R", "Description", "License", "Encoding", "RoxygenNote", "Suggests", "URL", "BugReports", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/fastmap/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["fastmap"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Fast Data Structures"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["1.2.0"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Winston\", \"Chang\", email = \"winston@posit.co\", role = c(\"aut\", \"cre\")),\n    person(given = \"Posit Software, PBC\", role = c(\"cph\", \"fnd\")),\n    person(given = \"Tessil\", role = \"cph\", comment = \"hopscotch_map library\")\n    )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Fast implementation of data structures, including a key-value\n    store, stack, and queue. Environments are commonly used as key-value stores\n    in R, but every time a new key is used, it is added to R's global symbol\n    table, causing a small amount of memory leakage. This can be problematic in\n    cases where many different keys are used. Fastmap avoids this memory leak\n    issue by implementing the map using data structures in C++."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.2.3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["testthat (>= 2.1.1)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://r-lib.github.io/fastmap/, https://github.com/r-lib/fastmap"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/r-lib/fastmap/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-05-14 17:54:13 UTC; winston"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Winston Chang [aut, cre],\n  Posit Software, PBC [cph, fnd],\n  Tessil [cph] (hopscotch_map library)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Winston Chang <winston@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-05-15 09:00:07 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-02-25 02:14:48 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Type", "Title", "Version", "Authors@R", "Description", "Depends", "Imports", "Suggests", "License", "URL", "BugReports", "Encoding", "RoxygenNote", "VignetteBuilder", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/xfun/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["xfun"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Supporting Functions for Packages Maintained by 'Yihui Xie'"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["0.51"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n  person(\"Yihui\", \"Xie\", role = c(\"aut\", \"cre\", \"cph\"), email = \"xie@yihui.name\", comment = c(ORCID = \"0000-0003-0645-5666\", URL = \"https://yihui.org\")),\n  person(\"Wush\", \"Wu\", role = \"ctb\"),\n  person(\"Daijiang\", \"Li\", role = \"ctb\"),\n  person(\"Xianying\", \"Tan\", role = \"ctb\"),\n  person(\"Salim\", \"Brüggemann\", role = \"ctb\", email = \"salim-b@pm.me\", comment = c(ORCID = \"0000-0002-5329-5987\")),\n  person(\"Christophe\", \"Dervieux\", role = \"ctb\"),\n  person()\n  )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Miscellaneous functions commonly used in other packages maintained by 'Yihui Xie'."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.2.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["grDevices, stats, tools"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["testit, parallel, codetools, methods, rstudioapi, tinytex (>=\n0.30), mime, litedown (>= 0.4), commonmark, knitr (>= 1.47),\nremotes, pak, rhub, renv, curl, xml2, jsonlite, magick, yaml,\nqs, rmarkdown"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/yihui/xfun"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/yihui/xfun/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["litedown"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-02-19 15:23:21 UTC; runner"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Yihui Xie [aut, cre, cph] (<https://orcid.org/0000-0003-0645-5666>,\n    https://yihui.org),\n  Wush Wu [ctb],\n  Daijiang Li [ctb],\n  Xianying Tan [ctb],\n  Salim Brüggemann [ctb] (<https://orcid.org/0000-0002-5329-5987>),\n  Christophe Dervieux [ctb]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Yihui Xie <xie@yihui.name>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-02-19 16:00:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-02-25 02:14:49 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Version", "Title", "Description", "Authors@R", "License", "Encoding", "ByteCompile", "URL", "Imports", "Suggests", "RoxygenNote", "Config/Needs/routine", "Config/Needs/website", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/cachem/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["cachem"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["1.1.0"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Cache R Objects with Automatic Pruning"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Key-value stores with automatic pruning. Caches can limit\n    either their total size or the age of the oldest object (or both),\n    automatically pruning objects to maintain the constraints."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Winston\", \"Chang\", , \"winston@posit.co\", c(\"aut\", \"cre\")),\n    person(family = \"Posit Software, PBC\", role = c(\"cph\", \"fnd\")))"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["true"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://cachem.r-lib.org/, https://github.com/r-lib/cachem"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["rlang, fastmap (>= 1.2.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["testthat"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.2.3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["lobstr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["pkgdown"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-05-15 15:54:22 UTC; winston"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Winston Chang [aut, cre],\n  Posit Software, PBC [cph, fnd]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Winston Chang <winston@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-05-16 09:50:11 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-02-25 02:50:22 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Type", "Title", "Version", "Authors@R", "Description", "Depends", "Imports", "Suggests", "License", "URL", "BugReports", "Encoding", "VignetteBuilder", "SystemRequirements", "Collate", "RoxygenNote", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/knitr/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["A General-Purpose Package for Dynamic Report Generation in R"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["1.49"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Yihui\", \"Xie\", role = c(\"aut\", \"cre\"), email = \"xie@yihui.name\", comment = c(ORCID = \"0000-0003-0645-5666\")),\n    person(\"Abhraneel\", \"Sarma\", role = \"ctb\"),\n    person(\"Adam\", \"Vogt\", role = \"ctb\"),\n    person(\"Alastair\", \"Andrew\", role = \"ctb\"),\n    person(\"Alex\", \"Zvoleff\", role = \"ctb\"),\n    person(\"Amar\", \"Al-Zubaidi\", role = \"ctb\"),\n    person(\"Andre\", \"Simon\", role = \"ctb\", comment = \"the CSS files under inst/themes/ were derived from the Highlight package http://www.andre-simon.de\"),\n    person(\"Aron\", \"Atkins\", role = \"ctb\"),\n    person(\"Aaron\", \"Wolen\", role = \"ctb\"),\n    person(\"Ashley\", \"Manton\", role = \"ctb\"),\n    person(\"Atsushi\", \"Yasumoto\", role = \"ctb\", comment = c(ORCID = \"0000-0002-8335-495X\")),\n    person(\"Ben\", \"Baumer\", role = \"ctb\"),\n    person(\"Brian\", \"Diggs\", role = \"ctb\"),\n    person(\"Brian\", \"Zhang\", role = \"ctb\"),\n    person(\"Bulat\", \"Yapparov\", role = \"ctb\"),\n    person(\"Cassio\", \"Pereira\", role = \"ctb\"),\n    person(\"Christophe\", \"Dervieux\", role = \"ctb\"),\n    person(\"David\", \"Hall\", role = \"ctb\"),\n    person(\"David\", \"Hugh-Jones\", role = \"ctb\"),\n    person(\"David\", \"Robinson\", role = \"ctb\"),\n    person(\"Doug\", \"Hemken\", role = \"ctb\"),\n    person(\"Duncan\", \"Murdoch\", role = \"ctb\"),\n    person(\"Elio\", \"Campitelli\", role = \"ctb\"),\n    person(\"Ellis\", \"Hughes\", role = \"ctb\"),\n    person(\"Emily\", \"Riederer\", role = \"ctb\"),\n    person(\"Fabian\", \"Hirschmann\", role = \"ctb\"),\n    person(\"Fitch\", \"Simeon\", role = \"ctb\"),\n    person(\"Forest\", \"Fang\", role = \"ctb\"),\n    person(c(\"Frank\", \"E\", \"Harrell\", \"Jr\"), role = \"ctb\", comment = \"the Sweavel package at inst/misc/Sweavel.sty\"),\n    person(\"Garrick\", \"Aden-Buie\", role = \"ctb\"),\n    person(\"Gregoire\", \"Detrez\", role = \"ctb\"),\n    person(\"Hadley\", \"Wickham\", role = \"ctb\"),\n    person(\"Hao\", \"Zhu\", role = \"ctb\"),\n    person(\"Heewon\", \"Jeon\", role = \"ctb\"),\n    person(\"Henrik\", \"Bengtsson\", role = \"ctb\"),\n    person(\"Hiroaki\", \"Yutani\", role = \"ctb\"),\n    person(\"Ian\", \"Lyttle\", role = \"ctb\"),\n    person(\"Hodges\", \"Daniel\", role = \"ctb\"),\n    person(\"Jacob\", \"Bien\", role = \"ctb\"),\n    person(\"Jake\", \"Burkhead\", role = \"ctb\"),\n    person(\"James\", \"Manton\", role = \"ctb\"),\n    person(\"Jared\", \"Lander\", role = \"ctb\"),\n    person(\"Jason\", \"Punyon\", role = \"ctb\"),\n    person(\"Javier\", \"Luraschi\", role = \"ctb\"),\n    person(\"Jeff\", \"Arnold\", role = \"ctb\"),\n    person(\"Jenny\", \"Bryan\", role = \"ctb\"),\n    person(\"Jeremy\", \"Ashkenas\", role = c(\"ctb\", \"cph\"), comment = \"the CSS file at inst/misc/docco-classic.css\"),\n    person(\"Jeremy\", \"Stephens\", role = \"ctb\"),\n    person(\"Jim\", \"Hester\", role = \"ctb\"),\n    person(\"Joe\", \"Cheng\", role = \"ctb\"),\n    person(\"Johannes\", \"Ranke\", role = \"ctb\"),\n    person(\"John\", \"Honaker\", role = \"ctb\"),\n    person(\"John\", \"Muschelli\", role = \"ctb\"),\n    person(\"Jonathan\", \"Keane\", role = \"ctb\"),\n    person(\"JJ\", \"Allaire\", role = \"ctb\"),\n    person(\"Johan\", \"Toloe\", role = \"ctb\"),\n    person(\"Jonathan\", \"Sidi\", role = \"ctb\"),\n    person(\"Joseph\", \"Larmarange\", role = \"ctb\"),\n    person(\"Julien\", \"Barnier\", role = \"ctb\"),\n    person(\"Kaiyin\", \"Zhong\", role = \"ctb\"),\n    person(\"Kamil\", \"Slowikowski\", role = \"ctb\"),\n    person(\"Karl\", \"Forner\", role = \"ctb\"),\n    person(c(\"Kevin\", \"K.\"), \"Smith\", role = \"ctb\"),\n    person(\"Kirill\", \"Mueller\", role = \"ctb\"),\n    person(\"Kohske\", \"Takahashi\", role = \"ctb\"),\n    person(\"Lorenz\", \"Walthert\", role = \"ctb\"),\n    person(\"Lucas\", \"Gallindo\", role = \"ctb\"),\n    person(\"Marius\", \"Hofert\", role = \"ctb\"),\n    person(\"Martin\", \"Modrák\", role = \"ctb\"),\n    person(\"Michael\", \"Chirico\", role = \"ctb\"),\n    person(\"Michael\", \"Friendly\", role = \"ctb\"),\n    person(\"Michal\", \"Bojanowski\", role = \"ctb\"),\n    person(\"Michel\", \"Kuhlmann\", role = \"ctb\"),\n    person(\"Miller\", \"Patrick\", role = \"ctb\"),\n    person(\"Nacho\", \"Caballero\", role = \"ctb\"),\n    person(\"Nick\", \"Salkowski\", role = \"ctb\"),\n    person(\"Niels Richard\", \"Hansen\", role = \"ctb\"),\n    person(\"Noam\", \"Ross\", role = \"ctb\"),\n    person(\"Obada\", \"Mahdi\", role = \"ctb\"),\n    person(\"Pavel N.\", \"Krivitsky\", role = \"ctb\", comment=c(ORCID = \"0000-0002-9101-3362\")),\n    person(\"Pedro\", \"Faria\", role = \"ctb\"),\n    person(\"Qiang\", \"Li\", role = \"ctb\"),\n    person(\"Ramnath\", \"Vaidyanathan\", role = \"ctb\"),\n    person(\"Richard\", \"Cotton\", role = \"ctb\"),\n    person(\"Robert\", \"Krzyzanowski\", role = \"ctb\"),\n    person(\"Rodrigo\", \"Copetti\", role = \"ctb\"),\n    person(\"Romain\", \"Francois\", role = \"ctb\"),\n    person(\"Ruaridh\", \"Williamson\", role = \"ctb\"),\n    person(\"Sagiru\", \"Mati\", role = \"ctb\", comment = c(ORCID = \"0000-0003-1413-3974\")),\n    person(\"Scott\", \"Kostyshak\", role = \"ctb\"),\n    person(\"Sebastian\", \"Meyer\", role = \"ctb\"),\n    person(\"Sietse\", \"Brouwer\", role = \"ctb\"),\n    person(c(\"Simon\", \"de\"), \"Bernard\", role = \"ctb\"),\n    person(\"Sylvain\", \"Rousseau\", role = \"ctb\"),\n    person(\"Taiyun\", \"Wei\", role = \"ctb\"),\n    person(\"Thibaut\", \"Assus\", role = \"ctb\"),\n    person(\"Thibaut\", \"Lamadon\", role = \"ctb\"),\n    person(\"Thomas\", \"Leeper\", role = \"ctb\"),\n    person(\"Tim\", \"Mastny\", role = \"ctb\"),\n    person(\"Tom\", \"Torsney-Weir\", role = \"ctb\"),\n    person(\"Trevor\", \"Davis\", role = \"ctb\"),\n    person(\"Viktoras\", \"Veitas\", role = \"ctb\"),\n    person(\"Weicheng\", \"Zhu\", role = \"ctb\"),\n    person(\"Wush\", \"Wu\", role = \"ctb\"),\n    person(\"Zachary\", \"Foster\", role = \"ctb\"),\n    person(\"Zhian N.\", \"Kamvar\", role = \"ctb\", comment = c(ORCID = \"0000-0003-1458-7108\")),\n    person(given = \"Posit Software, PBC\", role = c(\"cph\", \"fnd\"))\n    )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Provides a general-purpose tool for dynamic report generation in R\n    using Literate Programming techniques."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.6.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["evaluate (>= 0.15), highr (>= 0.11), methods, tools, xfun (>=\n0.48), yaml (>= 2.1.19)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["bslib, codetools, DBI (>= 0.4-1), digest, formatR, gifski,\ngridSVG, htmlwidgets (>= 0.7), jpeg, JuliaCall (>= 0.11.1),\nmagick, litedown, markdown (>= 1.3), png, ragg, reticulate (>=\n1.4), rgl (>= 0.95.1201), rlang, rmarkdown, sass, showtext,\nstyler (>= 1.2.0), targets (>= 0.6.0), testit, tibble,\ntikzDevice (>= 0.10), tinytex (>= 0.46), webshot, rstudioapi,\nsvglite"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["GPL"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://yihui.org/knitr/"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/yihui/knitr/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["litedown, knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package vignettes based on R Markdown v2 or\nreStructuredText require Pandoc (http://pandoc.org). The\nfunction rst2pdf() requires rst2pdf\n(https://github.com/rst2pdf/rst2pdf)."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["'block.R' 'cache.R' 'utils.R' 'citation.R' 'hooks-html.R'\n'plot.R' 'defaults.R' 'concordance.R' 'engine.R' 'highlight.R'\n'themes.R' 'header.R' 'hooks-asciidoc.R' 'hooks-chunk.R'\n'hooks-extra.R' 'hooks-latex.R' 'hooks-md.R' 'hooks-rst.R'\n'hooks-textile.R' 'hooks.R' 'output.R' 'package.R' 'pandoc.R'\n'params.R' 'parser.R' 'pattern.R' 'rocco.R' 'spin.R' 'table.R'\n'template.R' 'utils-conversion.R' 'utils-rd2html.R'\n'utils-string.R' 'utils-sweave.R' 'utils-upload.R'\n'utils-vignettes.R' 'zzz.R'"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["no"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-11-06 23:10:53 UTC; runner"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Yihui Xie [aut, cre] (<https://orcid.org/0000-0003-0645-5666>),\n  Abhraneel Sarma [ctb],\n  Adam Vogt [ctb],\n  Alastair Andrew [ctb],\n  Alex Zvoleff [ctb],\n  Amar Al-Zubaidi [ctb],\n  Andre Simon [ctb] (the CSS files under inst/themes/ were derived from\n    the Highlight package http://www.andre-simon.de),\n  Aron Atkins [ctb],\n  Aaron Wolen [ctb],\n  Ashley Manton [ctb],\n  Atsushi Yasumoto [ctb] (<https://orcid.org/0000-0002-8335-495X>),\n  Ben Baumer [ctb],\n  Brian Diggs [ctb],\n  Brian Zhang [ctb],\n  Bulat Yapparov [ctb],\n  Cassio Pereira [ctb],\n  Christophe Dervieux [ctb],\n  David Hall [ctb],\n  David Hugh-Jones [ctb],\n  David Robinson [ctb],\n  Doug Hemken [ctb],\n  Duncan Murdoch [ctb],\n  Elio Campitelli [ctb],\n  Ellis Hughes [ctb],\n  Emily Riederer [ctb],\n  Fabian Hirschmann [ctb],\n  Fitch Simeon [ctb],\n  Forest Fang [ctb],\n  Frank E Harrell Jr [ctb] (the Sweavel package at inst/misc/Sweavel.sty),\n  Garrick Aden-Buie [ctb],\n  Gregoire Detrez [ctb],\n  Hadley Wickham [ctb],\n  Hao Zhu [ctb],\n  Heewon Jeon [ctb],\n  Henrik Bengtsson [ctb],\n  Hiroaki Yutani [ctb],\n  Ian Lyttle [ctb],\n  Hodges Daniel [ctb],\n  Jacob Bien [ctb],\n  Jake Burkhead [ctb],\n  James Manton [ctb],\n  Jared Lander [ctb],\n  Jason Punyon [ctb],\n  Javier Luraschi [ctb],\n  Jeff Arnold [ctb],\n  Jenny Bryan [ctb],\n  Jeremy Ashkenas [ctb, cph] (the CSS file at\n    inst/misc/docco-classic.css),\n  Jeremy Stephens [ctb],\n  Jim Hester [ctb],\n  Joe Cheng [ctb],\n  Johannes Ranke [ctb],\n  John Honaker [ctb],\n  John Muschelli [ctb],\n  Jonathan Keane [ctb],\n  JJ Allaire [ctb],\n  Johan Toloe [ctb],\n  Jonathan Sidi [ctb],\n  Joseph Larmarange [ctb],\n  Julien Barnier [ctb],\n  Kaiyin Zhong [ctb],\n  Kamil Slowikowski [ctb],\n  Karl Forner [ctb],\n  Kevin K. Smith [ctb],\n  Kirill Mueller [ctb],\n  Kohske Takahashi [ctb],\n  Lorenz Walthert [ctb],\n  Lucas Gallindo [ctb],\n  Marius Hofert [ctb],\n  Martin Modrák [ctb],\n  Michael Chirico [ctb],\n  Michael Friendly [ctb],\n  Michal Bojanowski [ctb],\n  Michel Kuhlmann [ctb],\n  Miller Patrick [ctb],\n  Nacho Caballero [ctb],\n  Nick Salkowski [ctb],\n  Niels Richard Hansen [ctb],\n  Noam Ross [ctb],\n  Obada Mahdi [ctb],\n  Pavel N. Krivitsky [ctb] (<https://orcid.org/0000-0002-9101-3362>),\n  Pedro Faria [ctb],\n  Qiang Li [ctb],\n  Ramnath Vaidyanathan [ctb],\n  Richard Cotton [ctb],\n  Robert Krzyzanowski [ctb],\n  Rodrigo Copetti [ctb],\n  Romain Francois [ctb],\n  Ruaridh Williamson [ctb],\n  Sagiru Mati [ctb] (<https://orcid.org/0000-0003-1413-3974>),\n  Scott Kostyshak [ctb],\n  Sebastian Meyer [ctb],\n  Sietse Brouwer [ctb],\n  Simon de Bernard [ctb],\n  Sylvain Rousseau [ctb],\n  Taiyun Wei [ctb],\n  Thibaut Assus [ctb],\n  Thibaut Lamadon [ctb],\n  Thomas Leeper [ctb],\n  Tim Mastny [ctb],\n  Tom Torsney-Weir [ctb],\n  Trevor Davis [ctb],\n  Viktoras Veitas [ctb],\n  Weicheng Zhu [ctb],\n  Wush Wu [ctb],\n  Zachary Foster [ctb],\n  Zhian N. Kamvar [ctb] (<https://orcid.org/0000-0003-1458-7108>),\n  Posit Software, PBC [cph, fnd]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Yihui Xie <xie@yihui.name>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-11-08 09:30:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2025-02-25 03:03:53 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Type", "Package", "Title", "Version", "Authors@R", "Description", "License", "URL", "BugReports", "Depends", "Imports", "Suggests", "Enhances", "Config/Needs/check", "Config/Needs/website", "Encoding", "RoxygenNote", "Collate", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/htmltools/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["htmltools"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Tools for HTML"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["0.5.8.1"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Joe\", \"Cheng\", , \"joe@posit.co\", role = \"aut\"),\n    person(\"Carson\", \"Sievert\", , \"carson@posit.co\", role = c(\"aut\", \"cre\"),\n           comment = c(ORCID = \"0000-0002-4958-2844\")),\n    person(\"Barret\", \"Schloerke\", , \"barret@posit.co\", role = \"aut\",\n           comment = c(ORCID = \"0000-0001-9986-114X\")),\n    person(\"Winston\", \"Chang\", , \"winston@posit.co\", role = \"aut\",\n           comment = c(ORCID = \"0000-0002-1576-2126\")),\n    person(\"Yihui\", \"Xie\", , \"yihui@posit.co\", role = \"aut\"),\n    person(\"Jeff\", \"Allen\", role = \"aut\"),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\"))\n  )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Tools for HTML generation and output."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["GPL (>= 2)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/rstudio/htmltools,\nhttps://rstudio.github.io/htmltools/"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/rstudio/htmltools/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 2.14.1)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["base64enc, digest, fastmap (>= 1.1.0), grDevices, rlang (>=\n1.0.0), utils"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Cairo, markdown, ragg, shiny, testthat, withr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["rstudio/quillt, bench"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.1"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["'colors.R' 'fill.R' 'html_dependency.R' 'html_escape.R'\n'html_print.R' 'htmltools-package.R' 'images.R' 'known_tags.R'\n'selector.R' 'staticimports.R' 'tag_query.R' 'utils.R' 'tags.R'\n'template.R'"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-04-02 14:26:15 UTC; cpsievert"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Joe Cheng [aut],\n  Carson Sievert [aut, cre] (<https://orcid.org/0000-0002-4958-2844>),\n  Barret Schloerke [aut] (<https://orcid.org/0000-0001-9986-114X>),\n  Winston Chang [aut] (<https://orcid.org/0000-0002-1576-2126>),\n  Yihui Xie [aut],\n  Jeff Allen [aut],\n  Posit Software, PBC [cph, fnd]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Carson Sievert <carson@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-04-04 05:03:00 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-02-25 02:50:22 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Type", "Package", "Title", "Version", "Authors@R", "Description", "License", "URL", "BugReports", "Depends", "Imports", "Suggests", "VignetteBuilder", "Config/Needs/website", "Config/testthat/edition", "Encoding", "RoxygenNote", "SystemRequirements", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/rmarkdown/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["rmarkdown"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Dynamic Documents for R"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2.29"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"JJ\", \"Allaire\", , \"jj@posit.co\", role = \"aut\"),\n    person(\"Yihui\", \"Xie\", , \"xie@yihui.name\", role = c(\"aut\", \"cre\"), comment = c(ORCID = \"0000-0003-0645-5666\")),\n    person(\"Christophe\", \"Dervieux\", , \"cderv@posit.co\", role = \"aut\", comment = c(ORCID = \"0000-0003-4474-2498\")),\n    person(\"Jonathan\", \"McPherson\", , \"jonathan@posit.co\", role = \"aut\"),\n    person(\"Javier\", \"Luraschi\", role = \"aut\"),\n    person(\"Kevin\", \"Ushey\", , \"kevin@posit.co\", role = \"aut\"),\n    person(\"Aron\", \"Atkins\", , \"aron@posit.co\", role = \"aut\"),\n    person(\"Hadley\", \"Wickham\", , \"hadley@posit.co\", role = \"aut\"),\n    person(\"Joe\", \"Cheng\", , \"joe@posit.co\", role = \"aut\"),\n    person(\"Winston\", \"Chang\", , \"winston@posit.co\", role = \"aut\"),\n    person(\"Richard\", \"Iannone\", , \"rich@posit.co\", role = \"aut\", comment = c(ORCID = \"0000-0003-3925-190X\")),\n    person(\"Andrew\", \"Dunning\", role = \"ctb\", comment = c(ORCID = \"0000-0003-0464-5036\")),\n    person(\"Atsushi\", \"Yasumoto\", role = c(\"ctb\", \"cph\"), comment = c(ORCID = \"0000-0002-8335-495X\", cph = \"Number sections Lua filter\")),\n    person(\"Barret\", \"Schloerke\", role = \"ctb\"),\n    person(\"Carson\", \"Sievert\", role = \"ctb\", comment = c(ORCID = \"0000-0002-4958-2844\")), \n    person(\"Devon\", \"Ryan\", , \"dpryan79@gmail.com\", role = \"ctb\", comment = c(ORCID = \"0000-0002-8549-0971\")),\n    person(\"Frederik\", \"Aust\", , \"frederik.aust@uni-koeln.de\", role = \"ctb\", comment = c(ORCID = \"0000-0003-4900-788X\")),\n    person(\"Jeff\", \"Allen\", , \"jeff@posit.co\", role = \"ctb\"), \n    person(\"JooYoung\", \"Seo\", role = \"ctb\", comment = c(ORCID = \"0000-0002-4064-6012\")),\n    person(\"Malcolm\", \"Barrett\", role = \"ctb\"),\n    person(\"Rob\", \"Hyndman\", , \"Rob.Hyndman@monash.edu\", role = \"ctb\"),\n    person(\"Romain\", \"Lesur\", role = \"ctb\"),\n    person(\"Roy\", \"Storey\", role = \"ctb\"),\n    person(\"Ruben\", \"Arslan\", , \"ruben.arslan@uni-goettingen.de\", role = \"ctb\"),\n    person(\"Sergio\", \"Oller\", role = \"ctb\"),\n    person(given = \"Posit Software, PBC\", role = c(\"cph\", \"fnd\")),\n    person(, \"jQuery UI contributors\", role = c(\"ctb\", \"cph\"), comment = \"jQuery UI library; authors listed in inst/rmd/h/jqueryui/AUTHORS.txt\"),\n    person(\"Mark\", \"Otto\", role = \"ctb\", comment = \"Bootstrap library\"),\n    person(\"Jacob\", \"Thornton\", role = \"ctb\", comment = \"Bootstrap library\"),\n    person(, \"Bootstrap contributors\", role = \"ctb\", comment = \"Bootstrap library\"),\n    person(, \"Twitter, Inc\", role = \"cph\", comment = \"Bootstrap library\"),\n    person(\"Alexander\", \"Farkas\", role = c(\"ctb\", \"cph\"), comment = \"html5shiv library\"),\n    person(\"Scott\", \"Jehl\", role = c(\"ctb\", \"cph\"), comment = \"Respond.js library\"),\n    person(\"Ivan\", \"Sagalaev\", role = c(\"ctb\", \"cph\"), comment = \"highlight.js library\"),\n    person(\"Greg\", \"Franko\", role = c(\"ctb\", \"cph\"), comment = \"tocify library\"),\n    person(\"John\", \"MacFarlane\", role = c(\"ctb\", \"cph\"), comment = \"Pandoc templates\"),\n    person(, \"Google, Inc.\", role = c(\"ctb\", \"cph\"), comment = \"ioslides library\"),\n    person(\"Dave\", \"Raggett\", role = \"ctb\", comment = \"slidy library\"),\n    person(, \"W3C\", role = \"cph\", comment = \"slidy library\"),\n    person(\"Dave\", \"Gandy\", role = c(\"ctb\", \"cph\"), comment = \"Font-Awesome\"),\n    person(\"Ben\", \"Sperry\", role = \"ctb\", comment = \"Ionicons\"),\n    person(, \"Drifty\", role = \"cph\", comment = \"Ionicons\"),\n    person(\"Aidan\", \"Lister\", role = c(\"ctb\", \"cph\"), comment = \"jQuery StickyTabs\"),\n    person(\"Benct Philip\", \"Jonsson\", role = c(\"ctb\", \"cph\"), comment = \"pagebreak Lua filter\"),\n    person(\"Albert\", \"Krewinkel\", role = c(\"ctb\", \"cph\"), comment = \"pagebreak Lua filter\")\n  )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Convert R Markdown documents into a variety of formats."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["GPL-3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/rstudio/rmarkdown,\nhttps://pkgs.rstudio.com/rmarkdown/"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/rstudio/rmarkdown/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["bslib (>= 0.2.5.1), evaluate (>= 0.13), fontawesome (>=\n0.5.0), htmltools (>= 0.5.1), jquerylib, jsonlite, knitr (>=\n1.43), methods, tinytex (>= 0.31), tools, utils, xfun (>=\n0.36), yaml (>= 2.1.19)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["digest, dygraphs, fs, rsconnect, downlit (>= 0.4.0), katex\n(>= 1.4.0), sass (>= 0.4.0), shiny (>= 1.6.0), testthat (>=\n3.0.3), tibble, vctrs, cleanrmd, withr (>= 2.4.2), xml2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["rstudio/quillt, pkgdown"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["pandoc (>= 1.14) - http://pandoc.org"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["no"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-11-01 19:32:48 UTC; runner"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["JJ Allaire [aut],\n  Yihui Xie [aut, cre] (<https://orcid.org/0000-0003-0645-5666>),\n  Christophe Dervieux [aut] (<https://orcid.org/0000-0003-4474-2498>),\n  Jonathan McPherson [aut],\n  Javier Luraschi [aut],\n  Kevin Ushey [aut],\n  Aron Atkins [aut],\n  Hadley Wickham [aut],\n  Joe Cheng [aut],\n  Winston Chang [aut],\n  Richard Iannone [aut] (<https://orcid.org/0000-0003-3925-190X>),\n  Andrew Dunning [ctb] (<https://orcid.org/0000-0003-0464-5036>),\n  Atsushi Yasumoto [ctb, cph] (<https://orcid.org/0000-0002-8335-495X>,\n    Number sections Lua filter),\n  Barret Schloerke [ctb],\n  Carson Sievert [ctb] (<https://orcid.org/0000-0002-4958-2844>),\n  Devon Ryan [ctb] (<https://orcid.org/0000-0002-8549-0971>),\n  Frederik Aust [ctb] (<https://orcid.org/0000-0003-4900-788X>),\n  Jeff Allen [ctb],\n  JooYoung Seo [ctb] (<https://orcid.org/0000-0002-4064-6012>),\n  Malcolm Barrett [ctb],\n  Rob Hyndman [ctb],\n  Romain Lesur [ctb],\n  Roy Storey [ctb],\n  Ruben Arslan [ctb],\n  Sergio Oller [ctb],\n  Posit Software, PBC [cph, fnd],\n  jQuery UI contributors [ctb, cph] (jQuery UI library; authors listed in\n    inst/rmd/h/jqueryui/AUTHORS.txt),\n  Mark Otto [ctb] (Bootstrap library),\n  Jacob Thornton [ctb] (Bootstrap library),\n  Bootstrap contributors [ctb] (Bootstrap library),\n  Twitter, Inc [cph] (Bootstrap library),\n  Alexander Farkas [ctb, cph] (html5shiv library),\n  Scott Jehl [ctb, cph] (Respond.js library),\n  Ivan Sagalaev [ctb, cph] (highlight.js library),\n  Greg Franko [ctb, cph] (tocify library),\n  John MacFarlane [ctb, cph] (Pandoc templates),\n  Google, Inc. [ctb, cph] (ioslides library),\n  Dave Raggett [ctb] (slidy library),\n  W3C [cph] (slidy library),\n  Dave Gandy [ctb, cph] (Font-Awesome),\n  Ben Sperry [ctb] (Ionicons),\n  Drifty [cph] (Ionicons),\n  Aidan Lister [ctb, cph] (jQuery StickyTabs),\n  Benct Philip Jonsson [ctb, cph] (pagebreak Lua filter),\n  Albert Krewinkel [ctb, cph] (pagebreak Lua filter)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Yihui Xie <xie@yihui.name>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-11-04 12:30:09 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2025-02-25 03:31:17 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Title", "Version", "Authors@R", "Description", "License", "URL", "BugReports", "Depends", "Imports", "Suggests", "VignetteBuilder", "Config/Needs/website", "Config/testthat/edition", "Encoding", "RoxygenNote", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/lifecycle/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["lifecycle"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Manage the Life Cycle of your Package Functions"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["1.0.4"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Lionel\", \"Henry\", , \"lionel@posit.co\", role = c(\"aut\", \"cre\")),\n    person(\"Hadley\", \"Wickham\", , \"hadley@posit.co\", role = \"aut\",\n           comment = c(ORCID = \"0000-0003-4757-117X\")),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\"))\n  )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Manage the life cycle of your exported functions with shared\n    conventions, documentation badges, and user-friendly deprecation\n    warnings."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://lifecycle.r-lib.org/, https://github.com/r-lib/lifecycle"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/r-lib/lifecycle/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.6)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["cli (>= 3.4.0), glue, rlang (>= 1.1.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["covr, crayon, knitr, lintr, rmarkdown, testthat (>= 3.0.1),\ntibble, tidyverse, tools, vctrs, withr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["tidyverse/tidytemplate, usethis"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.2.1"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["no"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2023-11-06 16:07:36 UTC; lionel"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Lionel Henry [aut, cre],\n  Hadley Wickham [aut] (<https://orcid.org/0000-0003-4757-117X>),\n  Posit Software, PBC [cph, fnd]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Lionel Henry <lionel@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2023-11-07 10:10:10 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2025-02-25 02:50:22 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Title", "Version", "Authors@R", "Description", "License", "URL", "BugReports", "Depends", "Imports", "Suggests", "Config/Needs/website", "Config/testthat/edition", "Encoding", "RoxygenNote", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/cli/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["cli"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Helpers for Developing Command Line Interfaces"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3.6.4"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Gábor\", \"Csárdi\", , \"gabor@posit.co\", role = c(\"aut\", \"cre\")),\n    person(\"Hadley\", \"Wickham\", role = \"ctb\"),\n    person(\"Kirill\", \"Müller\", role = \"ctb\"),\n    person(\"Salim\", \"Brüggemann\", , \"salim-b@pm.me\", role = \"ctb\",\n           comment = c(ORCID = \"0000-0002-5329-5987\")),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\"))\n  )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["A suite of tools to build attractive command line interfaces\n    ('CLIs'), from semantic elements: headings, lists, alerts, paragraphs,\n    etc. Supports custom themes via a 'CSS'-like language. It also\n    contains a number of lower level 'CLI' elements: rules, boxes, trees,\n    and 'Unicode' symbols with 'ASCII' alternatives. It support ANSI\n    colors and text styles as well."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://cli.r-lib.org, https://github.com/r-lib/cli"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/r-lib/cli/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.4)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["utils"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["callr, covr, crayon, digest, glue (>= 1.6.0), grDevices,\nhtmltools, htmlwidgets, knitr, methods, processx, ps (>=\n1.3.4.9000), rlang (>= 1.0.2.9003), rmarkdown, rprojroot,\nrstudioapi, testthat (>= 3.2.0), tibble, whoami, withr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["r-lib/asciicast, bench, brio, cpp11, decor, desc,\nfansi, prettyunits, sessioninfo, tidyverse/tidytemplate,\nusethis, vctrs"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-02-11 21:14:07 UTC; gaborcsardi"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Gábor Csárdi [aut, cre],\n  Hadley Wickham [ctb],\n  Kirill Müller [ctb],\n  Salim Brüggemann [ctb] (<https://orcid.org/0000-0002-5329-5987>),\n  Posit Software, PBC [cph, fnd]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Gábor Csárdi <gabor@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-02-13 05:20:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-02-25 02:14:50 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Type", "Package", "Version", "Title", "Description", "Authors@R", "License", "URL", "BugReports", "Encoding", "RoxygenNote", "SystemRequirements", "Imports", "Suggests", "VignetteBuilder", "Config/testthat/edition", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/sass/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["sass"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["0.4.9"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Syntactically Awesome Style Sheets ('Sass')"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["An 'SCSS' compiler, powered by the 'LibSass' library. With this,\n    R developers can use variables, inheritance, and functions to generate\n    dynamic style sheets. The package uses the 'Sass CSS' extension language,\n    which is stable, powerful, and CSS compatible."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Joe\", \"Cheng\", , \"joe@rstudio.com\", \"aut\"),\n    person(\"Timothy\", \"Mastny\", , \"tim.mastny@gmail.com\", \"aut\"),\n    person(\"Richard\", \"Iannone\", , \"rich@rstudio.com\", \"aut\",\n       comment = c(ORCID = \"0000-0003-3925-190X\")),\n    person(\"Barret\", \"Schloerke\", , \"barret@rstudio.com\", \"aut\",\n           comment = c(ORCID = \"0000-0001-9986-114X\")),\n    person(\"Carson\", \"Sievert\", , \"carson@rstudio.com\", c(\"aut\", \"cre\"),\n           comment = c(ORCID = \"0000-0002-4958-2844\")),\n    person(\"Christophe\", \"Dervieux\", , \"cderv@rstudio.com\", c(\"ctb\"),\n           comment = c(ORCID = \"0000-0003-4474-2498\")),\n    person(family = \"RStudio\", role = c(\"cph\", \"fnd\")),\n    person(family = \"Sass Open Source Foundation\", role = c(\"ctb\", \"cph\"),\n           comment = \"LibSass library\"),\n    person(\"Greter\", \"Marcel\", role = c(\"ctb\", \"cph\"),\n           comment = \"LibSass library\"),\n    person(\"Mifsud\", \"Michael\", role = c(\"ctb\", \"cph\"),\n           comment = \"LibSass library\"),\n    person(\"Hampton\", \"Catlin\", role = c(\"ctb\", \"cph\"),\n           comment = \"LibSass library\"),\n    person(\"Natalie\", \"Weizenbaum\", role = c(\"ctb\", \"cph\"),\n           comment = \"LibSass library\"),\n    person(\"Chris\", \"Eppstein\", role = c(\"ctb\", \"cph\"),\n           comment = \"LibSass library\"),\n    person(\"Adams\", \"Joseph\", role = c(\"ctb\", \"cph\"),\n           comment = \"json.cpp\"),\n    person(\"Trifunovic\", \"Nemanja\", role = c(\"ctb\", \"cph\"),\n           comment = \"utf8.h\")\n    )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://rstudio.github.io/sass/, https://github.com/rstudio/sass"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/rstudio/sass/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.1"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["GNU make"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["fs (>= 1.2.4), rlang (>= 0.4.10), htmltools (>= 0.5.1), R6,\nrappdirs"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["testthat, knitr, rmarkdown, withr, shiny, curl"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-03-15 21:58:01 UTC; cpsievert"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Joe Cheng [aut],\n  Timothy Mastny [aut],\n  Richard Iannone [aut] (<https://orcid.org/0000-0003-3925-190X>),\n  Barret Schloerke [aut] (<https://orcid.org/0000-0001-9986-114X>),\n  Carson Sievert [aut, cre] (<https://orcid.org/0000-0002-4958-2844>),\n  Christophe Dervieux [ctb] (<https://orcid.org/0000-0003-4474-2498>),\n  RStudio [cph, fnd],\n  Sass Open Source Foundation [ctb, cph] (LibSass library),\n  Greter Marcel [ctb, cph] (LibSass library),\n  Mifsud Michael [ctb, cph] (LibSass library),\n  Hampton Catlin [ctb, cph] (LibSass library),\n  Natalie Weizenbaum [ctb, cph] (LibSass library),\n  Chris Eppstein [ctb, cph] (LibSass library),\n  Adams Joseph [ctb, cph] (json.cpp),\n  Trifunovic Nemanja [ctb, cph] (utf8.h)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Carson Sievert <carson@rstudio.com>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-03-15 22:30:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-02-25 03:03:55 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Title", "Version", "Authors@R", "Description", "License", "Encoding", "Config/testthat/edition", "RoxygenNote", "Imports", "Suggests", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/jquerylib/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["jquerylib"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Obtain 'jQuery' as an HTML Dependency Object"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["0.1.4"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Carson\", \"Sievert\", role = c(\"aut\", \"cre\"), email = \"carson@rstudio.com\", comment = c(ORCID = \"0000-0002-4958-2844\")),\n    person(\"Joe\", \"Cheng\", role = \"aut\", email = \"joe@rstudio.com\"),\n    person(family = \"RStudio\", role = \"cph\"),\n    person(family = \"jQuery Foundation\", role = \"cph\",\n    comment = \"jQuery library and jQuery UI library\"),\n    person(family = \"jQuery contributors\", role = c(\"ctb\", \"cph\"),\n    comment = \"jQuery library; authors listed in inst/lib/jquery-AUTHORS.txt\")\n    )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Obtain any major version of 'jQuery' (<https://code.jquery.com/>) and use it in any webpage generated by 'htmltools' (e.g. 'shiny', 'htmlwidgets', and 'rmarkdown').\n    Most R users don't need to use this package directly, but other R packages (e.g. 'shiny', 'rmarkdown', etc.) depend on this package to avoid bundling redundant copies of 'jQuery'."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.0.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["htmltools"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["testthat"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["no"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2021-04-26 16:40:21 UTC; cpsievert"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Carson Sievert [aut, cre] (<https://orcid.org/0000-0002-4958-2844>),\n  Joe Cheng [aut],\n  RStudio [cph],\n  jQuery Foundation [cph] (jQuery library and jQuery UI library),\n  jQuery contributors [ctb, cph] (jQuery library; authors listed in\n    inst/lib/jquery-AUTHORS.txt)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Carson Sievert <carson@rstudio.com>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2021-04-26 17:10:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2025-02-25 03:03:53 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Version", "Priority", "Title", "Author", "Maintainer", "Contact", "Description", "License", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/compiler/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["compiler"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["4.4.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["base"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["The R Compiler Package"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Luke Tierney <luke-tierney@uiowa.edu>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R Core Team <do-use-Contact-address@r-project.org>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R-help mailing list <r-help@r-project.org>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Byte code compiler for R."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Part of R 4.4.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2024-10-31 16:41:23 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Title", "Description", "Version", "Authors@R", "Maintainer", "License", "URL", "BugReports", "RoxygenNote", "Suggests", "VignetteBuilder", "Encoding", "NeedsCompilation", "Packaged", "Author", "Repository", "Date/Publication", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/rstudioapi/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["rstudioapi"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Safely Access the RStudio API"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Access the RStudio API (if available) and provide informative error\n    messages when it's not."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["0.17.1"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Kevin\", \"Ushey\", role = c(\"aut\", \"cre\"), email = \"kevin@rstudio.com\"),\n    person(\"JJ\", \"Allaire\", role = c(\"aut\"), email = \"jj@posit.co\"),\n    person(\"Hadley\", \"Wickham\", role = c(\"aut\"), email = \"hadley@posit.co\"),\n    person(\"Gary\", \"Ritchie\", role = c(\"aut\"), email = \"gary@posit.co\"),\n    person(family = \"RStudio\", role = \"cph\")\n    )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Kevin Ushey <kevin@rstudio.com>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://rstudio.github.io/rstudioapi/,\nhttps://github.com/rstudio/rstudioapi"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/rstudio/rstudioapi/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["testthat, knitr, rmarkdown, clipr, covr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["no"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-10-22 20:55:52 UTC; kevin"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Kevin Ushey [aut, cre],\n  JJ Allaire [aut],\n  Hadley Wickham [aut],\n  Gary Ritchie [aut],\n  RStudio [cph]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-10-22 22:40:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.3; ; 2025-06-30 04:18:32 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Version", "Priority", "Title", "Author", "Maintainer", "Contact", "Description", "License", "Suggests", "NeedsCompilation", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/tools/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["tools"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["4.4.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["base"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Tools for Package Development"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R Core Team"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R Core Team <do-use-Contact-address@r-project.org>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R-help mailing list <r-help@r-project.org>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Tools for package development, administration and documentation."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Part of R 4.4.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["codetools, methods, xml2, curl, commonmark, knitr, xfun, mathjaxr, V8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2024-10-31 16:41:21 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Type", "Package", "Title", "Version", "Authors@R", "Description", "License", "URL", "BugReports", "Depends", "Suggests", "Config/Needs/website", "Config/testthat/edition", "Encoding", "RoxygenNote", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/evaluate/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["evaluate"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Parsing and Evaluation Tools that Provide More Details than the\nDefault"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["1.0.3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Hadley\", \"Wickham\", , \"hadley@posit.co\", role = c(\"aut\", \"cre\")),\n    person(\"Yihui\", \"Xie\", role = \"aut\",\n           comment = c(ORCID = \"0000-0003-0645-5666\")),\n    person(\"Michael\", \"Lawrence\", role = \"ctb\"),\n    person(\"Thomas\", \"Kluyver\", role = \"ctb\"),\n    person(\"Jeroen\", \"Ooms\", role = \"ctb\"),\n    person(\"Barret\", \"Schloerke\", role = \"ctb\"),\n    person(\"Adam\", \"Ryczkowski\", role = \"ctb\"),\n    person(\"Hiroaki\", \"Yutani\", role = \"ctb\"),\n    person(\"Michel\", \"Lang\", role = \"ctb\"),\n    person(\"Karolis\", \"Koncevičius\", role = \"ctb\"),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\"))\n  )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Parsing and evaluation tools that make it easy to recreate\n    the command line behaviour of R."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://evaluate.r-lib.org/, https://github.com/r-lib/evaluate"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/r-lib/evaluate/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.6.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["callr, covr, ggplot2 (>= 3.3.6), lattice, methods, pkgload,\nrlang, knitr, testthat (>= 3.0.0), withr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["tidyverse/tidytemplate"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["no"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-01-10 22:27:28 UTC; hadleywickham"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Hadley Wickham [aut, cre],\n  Yihui Xie [aut] (<https://orcid.org/0000-0003-0645-5666>),\n  Michael Lawrence [ctb],\n  Thomas Kluyver [ctb],\n  Jeroen Ooms [ctb],\n  Barret Schloerke [ctb],\n  Adam Ryczkowski [ctb],\n  Hiroaki Yutani [ctb],\n  Michel Lang [ctb],\n  Karolis Koncevičius [ctb],\n  Posit Software, PBC [cph, fnd]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Hadley Wickham <hadley@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-01-10 23:00:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2025-02-25 02:14:48 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Title", "Version", "Authors@R", "Description", "License", "URL", "BugReports", "Depends", "Imports", "Suggests", "Config/Needs/deploy", "Config/Needs/routine", "Config/Needs/website", "Config/testthat/edition", "Config/testthat/parallel", "Config/testthat/start-first", "Encoding", "RoxygenNote", "Collate", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/bslib/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["bslib"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["0.9.0"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Carson\", \"Sievert\", , \"carson@posit.co\", role = c(\"aut\", \"cre\"),\n           comment = c(ORCID = \"0000-0002-4958-2844\")),\n    person(\"Joe\", \"Cheng\", , \"joe@posit.co\", role = \"aut\"),\n    person(\"Garrick\", \"Aden-Buie\", , \"garrick@posit.co\", role = \"aut\",\n           comment = c(ORCID = \"0000-0002-7111-0077\")),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\")),\n    person(, \"Bootstrap contributors\", role = \"ctb\",\n           comment = \"Bootstrap library\"),\n    person(, \"Twitter, Inc\", role = \"cph\",\n           comment = \"Bootstrap library\"),\n    person(\"Javi\", \"Aguilar\", role = c(\"ctb\", \"cph\"),\n           comment = \"Bootstrap colorpicker library\"),\n    person(\"Thomas\", \"Park\", role = c(\"ctb\", \"cph\"),\n           comment = \"Bootswatch library\"),\n    person(, \"PayPal\", role = c(\"ctb\", \"cph\"),\n           comment = \"Bootstrap accessibility plugin\")\n  )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Simplifies custom 'CSS' styling of both 'shiny' and\n    'rmarkdown' via 'Bootstrap' 'Sass'. Supports 'Bootstrap' 3, 4 and 5 as\n    well as their various 'Bootswatch' themes. An interactive widget is\n    also provided for previewing themes in real time."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://rstudio.github.io/bslib/, https://github.com/rstudio/bslib"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/rstudio/bslib/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 2.10)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["base64enc, cachem, fastmap (>= 1.1.1), grDevices, htmltools\n(>= 0.5.8), jquerylib (>= 0.1.3), jsonlite, lifecycle, memoise\n(>= 2.0.1), mime, rlang, sass (>= 0.4.9)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["bsicons, curl, fontawesome, future, ggplot2, knitr, magrittr,\nrappdirs, rmarkdown (>= 2.7), shiny (> 1.8.1), testthat,\nthematic, tools, utils, withr, yaml"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["BH, chiflights22, colourpicker, commonmark, cpp11,\ncpsievert/chiflights22, cpsievert/histoslider, dplyr, DT,\nggplot2, ggridges, gt, hexbin, histoslider, htmlwidgets,\nlattice, leaflet, lubridate, markdown, modelr, plotly,\nreactable, reshape2, rprojroot, rsconnect, rstudio/shiny,\nscales, styler, tibble"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["chromote, desc, renv"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["brio, crosstalk, dplyr, DT, ggplot2, glue,\nhtmlwidgets, leaflet, lorem, palmerpenguins, plotly, purrr,\nrprojroot, rstudio/htmltools, scales, stringr, tidyr, webshot2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["true"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["zzzz-bs-sass, fonts, zzz-precompile,\ntheme-*, rmd-*"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["'accordion.R' 'breakpoints.R' 'bs-current-theme.R'\n'bs-dependencies.R' 'bs-global.R' 'bs-remove.R'\n'bs-theme-layers.R' 'bs-theme-preset-bootswatch.R'\n'bs-theme-preset-brand.R' 'bs-theme-preset-builtin.R'\n'bs-theme-preset.R' 'utils.R' 'bs-theme-preview.R'\n'bs-theme-update.R' 'bs-theme.R' 'bslib-package.R' 'buttons.R'\n'card.R' 'deprecated.R' 'files.R' 'fill.R' 'imports.R'\n'input-dark-mode.R' 'input-switch.R' 'layout.R' 'nav-items.R'\n'nav-update.R' 'navbar_options.R' 'navs-legacy.R' 'navs.R'\n'onLoad.R' 'page.R' 'popover.R' 'precompiled.R' 'print.R'\n'shiny-devmode.R' 'sidebar.R' 'staticimports.R' 'tooltip.R'\n'utils-deps.R' 'utils-shiny.R' 'utils-tags.R' 'value-box.R'\n'version-default.R' 'versions.R'"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["no"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-01-30 22:04:52 UTC; garrick"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Carson Sievert [aut, cre] (<https://orcid.org/0000-0002-4958-2844>),\n  Joe Cheng [aut],\n  Garrick Aden-Buie [aut] (<https://orcid.org/0000-0002-7111-0077>),\n  Posit Software, PBC [cph, fnd],\n  Bootstrap contributors [ctb] (Bootstrap library),\n  Twitter, Inc [cph] (Bootstrap library),\n  Javi Aguilar [ctb, cph] (Bootstrap colorpicker library),\n  Thomas Park [ctb, cph] (Bootswatch library),\n  PayPal [ctb, cph] (Bootstrap accessibility plugin)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Carson Sievert <carson@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-01-30 23:20:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; ; 2025-02-25 03:20:03 UTC; windows"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Type", "Title", "Date", "Version", "Suggests", "Author", "Maintainer", "License", "Description", "URL", "BugReports", "NeedsCompilation", "Packaged", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/yaml/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yaml"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Methods to Convert R Data to YAML and Back"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-07-22"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2.3.10"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["RUnit"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Shawn P Garbett [aut], Jeremy Stephens [aut, cre], Kirill Simonov [aut], Yihui Xie [ctb],\n  Zhuoer Dong [ctb], Hadley Wickham [ctb], Jeffrey Horner [ctb], reikoch [ctb],\n  Will Beasley [ctb], Brendan O'Connor [ctb], Gregory R. Warnes [ctb],\n  Michael Quinn [ctb], Zhian N. Kamvar [ctb], Charlie Gao [ctb]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Shawn Garbett <shawn.garbett@vumc.org>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["BSD_3_clause + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Implements the 'libyaml' 'YAML' 1.1 parser and emitter\n  (<https://pyyaml.org/wiki/LibYAML>) for R."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/vubiostat/r-yaml/"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/vubiostat/r-yaml/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-07-22 15:44:18 UTC; garbetsp"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-07-26 15:10:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-01-04 01:25:50 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Version", "Title", "Description", "Authors@R", "License", "ByteCompile", "Biarch", "Depends", "Imports", "Suggests", "Enhances", "Encoding", "RoxygenNote", "URL", "BugReports", "Config/testthat/edition", "Config/Needs/website", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/rlang/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["rlang"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["1.1.5"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Functions for Base Types and Core R and 'Tidyverse' Features"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["A toolbox for working with base types, core R features\n  like the condition system, and core 'Tidyverse' features like tidy\n  evaluation."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Lionel\", \"Henry\", ,\"lionel@posit.co\", c(\"aut\", \"cre\")),\n    person(\"Hadley\", \"Wickham\", ,\"hadley@posit.co\", \"aut\"),\n    person(given = \"mikefc\",\n           email = \"mikefc@coolbutuseless.com\", \n           role = \"cph\", \n           comment = \"Hash implementation based on Mike's xxhashlite\"),\n    person(given = \"Yann\",\n           family = \"Collet\",\n           role = \"cph\", \n           comment = \"Author of the embedded xxHash library\"),\n    person(given = \"Posit, PBC\", role = c(\"cph\", \"fnd\"))\n    )"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["true"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["true"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 3.5.0)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["utils"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["cli (>= 3.1.0), covr, crayon, fs, glue, knitr, magrittr,\nmethods, pillar, rmarkdown, stats, testthat (>= 3.0.0), tibble,\nusethis, vctrs (>= 0.2.3), withr"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["winch"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://rlang.r-lib.org, https://github.com/r-lib/rlang"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/r-lib/rlang/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["dplyr, tidyverse/tidytemplate"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-01-17 08:43:17 UTC; lionel"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Lionel Henry [aut, cre],\n  Hadley Wickham [aut],\n  mikefc [cph] (Hash implementation based on Mike's xxhashlite),\n  Yann Collet [cph] (Author of the embedded xxHash library),\n  Posit, PBC [cph, fnd]"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Lionel Henry <lionel@posit.co>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-01-17 14:30:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2025-02-25 02:14:50 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Version", "Title", "License", "Depends", "Authors@R", "URL", "BugReports", "Maintainer", "VignetteBuilder", "Description", "Suggests", "RoxygenNote", "Encoding", "NeedsCompilation", "Packaged", "Author", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/jsonlite/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["jsonlite"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2.0.0"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["A Simple and Robust JSON Parser and Generator for R"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MIT + file LICENSE"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["methods"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(\n    person(\"Jeroen\", \"Ooms\", role = c(\"aut\", \"cre\"), email = \"jeroenooms@gmail.com\",\n      comment = c(ORCID = \"0000-0002-4035-0289\")),\n    person(\"Duncan\", \"Temple Lang\", role = \"ctb\"),\n    person(\"Lloyd\", \"Hilaiel\", role = \"cph\", comment=\"author of bundled libyajl\"))"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://jeroen.r-universe.dev/jsonlite\nhttps://arxiv.org/abs/1403.2805"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["https://github.com/jeroen/jsonlite/issues"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Jeroen Ooms <jeroenooms@gmail.com>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["knitr, R.rsp"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["A reasonably fast JSON parser and generator, optimized for statistical \n    data and the web. Offers simple, flexible tools for working with JSON in R, and\n    is particularly powerful for building pipelines and interacting with a web API. \n    The implementation is based on the mapping described in the vignette (Ooms, 2014).\n    In addition to converting JSON data from/to R objects, 'jsonlite' contains \n    functions to stream, validate, and prettify JSON data. The unit tests included \n    with the package verify that all edge cases are encoded and decoded consistently \n    for use with dynamic data in systems and applications."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["httr, vctrs, testthat, knitr, rmarkdown, R.rsp, sf"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3.2"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["UTF-8"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-03-26 11:36:10 UTC; jeroen"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Jeroen Ooms [aut, cre] (<https://orcid.org/0000-0002-4035-0289>),\n  Duncan Temple Lang [ctb],\n  Lloyd Hilaiel [cph] (author of bundled libyajl)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2025-03-27 06:40:02 UTC"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.3; x86_64-w64-mingw32; 2025-03-28 00:50:49 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["default"]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": [""]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": [""]
+            },
+            {
+              "type": "character",
+              "attributes": {},
+              "value": ["3.12.0"]
+            },
+            {
+              "type": "integer",
+              "attributes": {},
+              "value": [65001]
+            },
+            {
+              "type": "integer",
+              "attributes": {},
+              "value": [65001]
             }
           ]
         },

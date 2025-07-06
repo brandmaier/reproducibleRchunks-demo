@@ -8,6 +8,8 @@ date: "2025-07-04"
 knitr::opts_chunk$set(echo = TRUE)
 library(reproducibleRchunks)
 
+library(MASS)
+
 options(reproducibleRchunks.msg_failure=" Oh no!")
 options(reproducibleRchunks.msg_success=" Yeah!")
 ```
@@ -17,4 +19,7 @@ options(reproducibleRchunks.msg_success=" Yeah!")
 ```{reproducibleR}
 x <- c(1,2,3)
 y <- x + 1
+
+set.seed(249)
+dat<-MASS::mvrnorm(n=100,0,1)
 ```
