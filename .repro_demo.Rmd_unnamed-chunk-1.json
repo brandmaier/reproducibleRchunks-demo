@@ -290,10 +290,152 @@
                 "names": {
                   "type": "character",
                   "attributes": {},
-                  "value": ["reproducibleRchunks"]
+                  "value": ["MASS", "reproducibleRchunks"]
                 }
               },
               "value": [
+                {
+                  "type": "list",
+                  "attributes": {
+                    "names": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Package", "Priority", "Version", "Date", "Revision", "Depends", "Imports", "Suggests", "Authors@R", "Description", "Title", "LazyData", "ByteCompile", "License", "URL", "Contact", "NeedsCompilation", "Packaged", "Author", "Maintainer", "Repository", "Date/Publication", "Built", "Archs"]
+                    },
+                    "class": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["packageDescription"]
+                    },
+                    "file": {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["C:/Users/andreas.brandmaier/AppData/Local/Programs/R/R-4.4.2/library/MASS/Meta/package.rds"]
+                    }
+                  },
+                  "value": [
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["MASS"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["recommended"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["7.3-61"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-06-10"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["$Rev: 3657 $"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R (>= 4.4.0), grDevices, graphics, stats, utils"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["methods"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["lattice, nlme, nnet, survival"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["c(person(\"Brian\", \"Ripley\", role = c(\"aut\", \"cre\", \"cph\"),\n                    email = \"ripley@stats.ox.ac.uk\"),\n\t     person(\"Bill\", \"Venables\", role = c(\"aut\", \"cph\")),\n\t     person(c(\"Douglas\", \"M.\"), \"Bates\", role = \"ctb\"),\n\t     person(\"Kurt\", \"Hornik\", role = \"trl\",\n                     comment = \"partial port ca 1998\"),\n\t     person(\"Albrecht\", \"Gebhardt\", role = \"trl\",\n                     comment = \"partial port ca 1998\"),\n\t     person(\"David\", \"Firth\", role = \"ctb\",\n\t            comment = \"support functions for polr\"))"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Functions and datasets to support Venables and Ripley,\n  \"Modern Applied Statistics with S\" (4th edition, 2002)."]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Support Functions and Datasets for Venables and Ripley's MASS"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["GPL-2 | GPL-3"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["http://www.stats.ox.ac.uk/pub/MASS4/"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["<MASS@stats.ox.ac.uk>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["yes"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-06-13 08:23:32 UTC; ripley"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Brian Ripley [aut, cre, cph],\n  Bill Venables [aut, cph],\n  Douglas M. Bates [ctb],\n  Kurt Hornik [trl] (partial port ca 1998),\n  Albrecht Gebhardt [trl] (partial port ca 1998),\n  David Firth [ctb] (support functions for polr)"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["Brian Ripley <ripley@stats.ox.ac.uk>"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["CRAN"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["2024-06-13 10:23:32"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["R 4.4.2; x86_64-w64-mingw32; 2024-10-31 16:49:22 UTC; windows"]
+                    },
+                    {
+                      "type": "character",
+                      "attributes": {},
+                      "value": ["x64"]
+                    }
+                  ]
+                },
                 {
                   "type": "list",
                   "attributes": {
@@ -402,7 +544,7 @@
                     {
                       "type": "character",
                       "attributes": {},
-                      "value": ["R 4.4.2; ; 2025-07-06 19:38:22 UTC; windows"]
+                      "value": ["R 4.4.2; ; 2025-07-06 20:03:17 UTC; windows"]
                     }
                   ]
                 }
@@ -3020,7 +3162,7 @@
         {
           "type": "character",
           "attributes": {},
-          "value": ["d650e2c803e1e674877ab771b08278062ccb94a447d8c3156e20dba69a7ce9ab"]
+          "value": ["8d7dce944f6a96f87140171a05956df334bc7a220280c05504972ed949682301"]
         }
       ]
     },
@@ -3030,10 +3172,20 @@
         "names": {
           "type": "character",
           "attributes": {},
-          "value": ["x", "y"]
+          "value": [".Random.seed", "dat", "x", "y"]
         }
       },
       "value": [
+        {
+          "type": "character",
+          "attributes": {},
+          "value": ["f031ffe8d00ab61dcaf6feccff3f102b6b0df1d9b0bd88661b3e365311e90884"]
+        },
+        {
+          "type": "character",
+          "attributes": {},
+          "value": ["a94fff238d88e685eeb225cc4c1b627e37ba0ad865906c9f5cced9f23d31117d"]
+        },
         {
           "type": "character",
           "attributes": {},
