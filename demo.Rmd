@@ -20,6 +20,6 @@ options(reproducibleRchunks.msg_success=" Yeah!")
 x <- c(1,2,3)
 y <- x + 1
 
-set.seed(249)
+set.seed(24)
 dat<-MASS::mvrnorm(n=100,0,1)
 ```
